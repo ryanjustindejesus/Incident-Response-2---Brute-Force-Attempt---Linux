@@ -73,7 +73,7 @@ SecurityEvent
     - Assess the potential impact of the incident.
         - What type of account was it? Permissions?
 
-- <b>Containment and Recovery</b>
+## Containment and Recovery
 
 ![image](https://github.com/user-attachments/assets/86ee1b28-092f-4490-b5b1-c0bc58562da9)
 - <b>Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic</b>
