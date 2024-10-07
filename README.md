@@ -74,6 +74,9 @@ SecurityEvent
         - What type of account was it? Permissions?
 
 - <b>Containment and Recovery</b>
-    - Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic
-    - Reset the affected user’s password
-    - Enable MFA
+
+![image](https://github.com/user-attachments/assets/86ee1b28-092f-4490-b5b1-c0bc58562da9)
+- <b>Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic</b>
+
+![image](https://github.com/user-attachments/assets/0f43e8a9-e329-405e-9467-d57dbbd165ab)
+- <b>Reset the affected user’s password</b>
