@@ -58,7 +58,7 @@ SecurityEvent
 ```
  
 ![image](https://github.com/user-attachments/assets/ebe15060-692a-47c0-be5e-7e9d389ee438)
-- <b>Based on the results, I will conclude this as a True Positive due the results containing multiple failed authentication attempts by the same user account or from the same IP address, further suggesting malicious intent.
+- <b>Based on the results, I will conclude this as a True Positive - Suspicious Activity due the results containing multiple failed authentication attempts by the same user account or from the same IP address, further suggesting malicious intent.
 
 ## Incident Management Playbook 
 - <b>Incident Description</b>
