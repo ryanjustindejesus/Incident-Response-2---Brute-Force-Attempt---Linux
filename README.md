@@ -1,6 +1,6 @@
 <h1>Incident Response: Brute Force Attempt - Linux</h1>
 
-- <b>This tutorial outlines the configuration of performing incident response for brute force attempts on our Linux Syslog virtual machine using Microsoft Sentinel and Log Analytics Workspace</b>
+- <b>This tutorial outlines the configuration of performing incident response for a brute force attempt on our Linux Syslog virtual machine using Microsoft Sentinel and Log Analytics Workspace</b>
 
 <h2>Environments and Technologies Used</h2>
 
