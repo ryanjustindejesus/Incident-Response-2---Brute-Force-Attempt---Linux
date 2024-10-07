@@ -48,9 +48,6 @@ let GetIPRelatedAlerts = (v_IP_Address: string) {
 GetIPRelatedAlerts(@'183.81.169.238')
 ```
 
-![image](https://github.com/user-attachments/assets/734e9966-a58c-48dd-b83e-4ef855bdd29e)
-- <b>Determine the legitimacy of the Incident (True Positive, False Positive, etc.)</b>
-
 ```
 SecurityEvent
 | where EventID == 4625
@@ -58,7 +55,8 @@ SecurityEvent
 ```
  
 ![image](https://github.com/user-attachments/assets/ebe15060-692a-47c0-be5e-7e9d389ee438)
-- <b>Based on the results, I will conclude this as a True Positive - Suspicious Activity due the results containing multiple failed authentication attempts by the same user account or from the same IP address, further suggesting malicious intent.
+- <b>Determine the legitimacy of the Incident (True Positive, False Positive, etc.)</b>
+- <b>Based on the results, I will conclude this as a True Positive - Suspicious Activity due to the results containing multiple failed authentication attempts by the same user account or from the same IP address, further suggesting malicious intent.
 
 ## Incident Management Playbook 
 - <b>Incident Description</b>
