@@ -62,7 +62,7 @@ SecurityEvent
 
 ## Incident Management Playbook 
 - <b>Incident Description</b>
-    - This incident involves observation of potential brute force attempts against a Windows VM.
+    - This incident involves observation of potential brute force attempts against a Linux Syslog.
 
 - <b>Initial Response Actions</b>
     - Verify the authenticity of the alert or report.
